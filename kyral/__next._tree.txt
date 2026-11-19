@@ -1,0 +1,6 @@
+:HL["/webdomov-ukazky/kyral/_next/static/chunks/11wl89rqm-4u3.css","style"]
+:HL["/webdomov-ukazky/kyral/_next/static/media/afacad_latin-s.p.20g0z6qjw1ulq.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-ukazky/kyral/_next/static/media/afacad_latin_ext.p.0iz3-th048d5-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-ukazky/kyral/_next/static/media/tektur_600_latin-s.p.3t_43mtk1tg2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-ukazky/kyral/_next/static/media/tektur_600_latin_ext.p.1qaum6d8vcdx7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"ksYlxVu-BojgtCaVeTkm-"}

@@ -1,0 +1,6 @@
+:HL["/webdomov-ukazky/ledec/_next/static/chunks/27y2zj3frlbh2.css","style"]
+:HL["/webdomov-ukazky/ledec/_next/static/media/geologica_latin.p.1i0-tkhmnd6is.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-ukazky/ledec/_next/static/media/geologica_latin_ext.p.3bpbcpiio729a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-ukazky/ledec/_next/static/media/urbanist_700_latin.p.3a6jyu2_cly49.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-ukazky/ledec/_next/static/media/urbanist_700_latin_ext.p.1n4dtr6xax91p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"o-nas","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"WqmZuck4y54gMsM3KT5se"}

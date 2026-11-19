@@ -1,0 +1,8 @@
+:HL["/webdomov-ukazky/elmont/_next/static/chunks/2t8fbxf8nx2he.css","style"]
+:HL["/webdomov-ukazky/elmont/_next/static/media/kanit_600_latin.p.3btzg3pbxiu1o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-ukazky/elmont/_next/static/media/kanit_600_latin_ext.p.0h71b1gd0-8_7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-ukazky/elmont/_next/static/media/sarabun_400_latin.p.41_1bbhnqcn3l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-ukazky/elmont/_next/static/media/sarabun_400_latin_ext.p.436q8r5--eamd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-ukazky/elmont/_next/static/media/sarabun_600_latin.p.33ndw2snxq3le.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-ukazky/elmont/_next/static/media/sarabun_600_latin_ext.p.3sa03-u70a6zc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"o-nas","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"8KbGWYteHSB1KQ9lrBOop"}

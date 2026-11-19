@@ -1,0 +1,7 @@
+:HL["/webdomov-ukazky/colombelli/_next/static/chunks/059nndq0gx_i5.css","style"]
+:HL["/webdomov-ukazky/colombelli/_next/static/media/gabarito_latin-s.p.1xpgnauc0ctq6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-ukazky/colombelli/_next/static/media/gabarito_latin_ext.p.1v4dvbjpvl4yc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-ukazky/colombelli/_next/static/media/golos_text_latin-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-ukazky/colombelli/_next/static/media/golos_text_latin_ext.p.2ocajiqvilzpk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-ukazky/colombelli/fotky/r2-titulni.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"realizace","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"korunni","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"OlrZF2vUjj6vBOvTCKdC8"}
