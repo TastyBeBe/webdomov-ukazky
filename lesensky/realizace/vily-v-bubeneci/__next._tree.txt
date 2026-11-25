@@ -4,4 +4,4 @@
 :HL["/webdomov-ukazky/lesensky/_next/static/media/unbounded_latin-s.p.1bk8_xp319hr4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-ukazky/lesensky/_next/static/media/unbounded_latin_ext.p.0kda-l-rfpyyq.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/webdomov-ukazky/lesensky/fotky/r6-titulni.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"realizace","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"vily-v-bubeneci","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"5xb02chjQ9BggsZAkioVl"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"realizace","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"vily-v-bubeneci","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"EQ4pkzMhRXwiDKlWXxieT"}
