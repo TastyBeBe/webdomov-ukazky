@@ -1,0 +1,7 @@
+:HL["/webdomov-ukazky/matika/_next/static/chunks/2frvatgmexq3z.css","style"]
+:HL["/webdomov-ukazky/matika/_next/static/media/funnel_display_latin-s.p.40tb0-1oitk4_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-ukazky/matika/_next/static/media/funnel_display_latin_ext.p.3-kv-a8ukeqku.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-ukazky/matika/_next/static/media/funnel_sans_latin-s.p.31rnap-za66mk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-ukazky/matika/_next/static/media/funnel_sans_latin_ext.p.08z9zpoycruvm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/webdomov-ukazky/matika/fotky/rozhledna-stropnik-titulni.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"realizace","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"rozhledna-stropnik","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"TVA2_dcF5UBowEGyfYw8Z"}
